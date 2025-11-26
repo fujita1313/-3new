@@ -15,7 +15,10 @@ FILE_NAME = r"C:\Users\haruk\OneDrive\ドキュメント\修士\実験データ\
 # 実際の動画のFPSに合わせてこの値を変更してください。
 DUMMY_FPS = 30.0 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 885567797e074f0c87c65d9b088637d8eb17d717
 # 平滑化ウィンドウサイズ (フレーム数)。W=5を指定。
 SMOOTHING_WINDOW_SIZE = 5 
 

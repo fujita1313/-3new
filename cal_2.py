@@ -7,8 +7,6 @@ import matplotlib.pyplot as plt
 import matplotlib.transforms as mtransforms
 
 
-
-# --- 1. 解析パラメータ ---
 FPS_VIDEO = 30.0
 SENSOR_SAMPLE_MS = 10.0 
 DATA_START_ROW = 62
